@@ -1,0 +1,14 @@
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.AssemblyInfoInputs.cache
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.AssemblyInfo.cs
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\guill\RiderProjects\CSharp\TP_Final\bin\Debug\net8.0\TP_Final.exe
+C:\Users\guill\RiderProjects\CSharp\TP_Final\bin\Debug\net8.0\TP_Final.deps.json
+C:\Users\guill\RiderProjects\CSharp\TP_Final\bin\Debug\net8.0\TP_Final.runtimeconfig.json
+C:\Users\guill\RiderProjects\CSharp\TP_Final\bin\Debug\net8.0\TP_Final.dll
+C:\Users\guill\RiderProjects\CSharp\TP_Final\bin\Debug\net8.0\TP_Final.pdb
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.dll
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\refint\TP_Final.dll
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.pdb
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\TP_Final.genruntimeconfig.cache
+C:\Users\guill\RiderProjects\CSharp\TP_Final\obj\Debug\net8.0\ref\TP_Final.dll
